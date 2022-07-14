@@ -8,3 +8,6 @@ Link para ver el repocitorio en la web https://github.com/Jmendoza05/PruebaNiceP
 3. Al terminar la descarga de los modulos ejecutar el comando "npm run dev" para ejecutar el backend.
 4. Abrir la carpeta client, iniciar una terminal y ejecutar el comando "npm install" para descargar los modulos correspondientes.
 5. Al terminar la descarga de los modulos ejecutar el comando "ng serve" para ejecutar el frontend.
+
+# Notas del proyecto
+La base de datos esta en la nube con el motor de base de datos mongoDB, lo cual no se nececita configuracion.
